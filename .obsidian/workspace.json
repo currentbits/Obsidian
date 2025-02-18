@@ -11,10 +11,14 @@
             "id": "9d77b9f5433e1971",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20 - How-To Guides/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -177,13 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b2b8940fd0b4ec",
+  "active": "9d77b9f5433e1971",
   "lastOpenFiles": [
+    "10 - Concepts/Untitled.md",
+    "20 - How-To Guides/Untitled.md",
+    "00 - Inbox/Untitled.md",
     "00 - Inbox/test.txt",
     "00 - Inbox/New Text Document.txt",
     "Templates/GitOps Troubleshooting.md",
     "Templates/Kubernetes Deployment.md",
-    "00 - Inbox/Untitled.md",
     "Untitled.md",
     "tes.md",
     "Untitled 1.md",
