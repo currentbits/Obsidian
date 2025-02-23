@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db0ecbce4c3a132a",
+        "id": "50fff2dbd477a2ca",
         "type": "tabs",
         "children": [
           {
-            "id": "9d77b9f5433e1971",
+            "id": "2458a826e9893787",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Workflow Note Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Workflow Note Template"
             }
           }
         ]
@@ -118,32 +122,18 @@
             }
           },
           {
-            "id": "8a0b09a8eb4c90d4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "61bd54b495288a14",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Workflow Note Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Workflow Note Template"
             }
           },
           {
@@ -157,7 +147,44 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "ab058ed0fb426084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a0b09a8eb4c90d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8205301741ba7e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f7661d0cbef456",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,26 +204,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b2b8940fd0b4ec",
+  "active": "36f7661d0cbef456",
   "lastOpenFiles": [
-    "00 - Inbox/Untitled.md",
+    "Templates/Tool Note Template.md",
+    "Templates/Workflow Note Template.md",
+    "Untitled.md",
+    "Related Note 1.md",
+    "00 - Inbox/test.md",
+    "Templates/Concept Note Template.md",
+    "60 - HowTo Guides",
+    "50 - Projects",
+    "40 - Issues",
+    "30 - Workflows",
+    "20 - Tools",
     "10 - Concepts/Untitled.md",
     "20 - How-To Guides/Untitled.md",
     "00 - Inbox/test.txt",
     "00 - Inbox/New Text Document.txt",
     "Templates/GitOps Troubleshooting.md",
     "Templates/Kubernetes Deployment.md",
-    "Untitled.md",
     "tes.md",
     "Untitled 1.md",
-    "00 - Inbox/test.md",
     "Templates/Gitops Troubleshooting Template.md",
     "Templates",
     "50 - Index (MOC)",
     "40 - Project Notes",
-    "20 - How-To Guides",
-    "10 - Concepts",
-    "Welcome.md",
-    "00 - Inbox"
+    "Welcome.md"
   ]
 }
