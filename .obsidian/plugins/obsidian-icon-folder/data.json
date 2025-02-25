@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBoxSelect",
+      "LiBox",
       "LiSquareLibrary",
       "LiPenTool",
-      "LiBookText",
-      "LiArchive",
-      "LiCalendarCog"
+      "LiBookText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,6 +39,7 @@
   "04 - Permanent": "SiReadthedocs",
   "05 - Fleeting": "LiPen",
   "06 - Daily": "LiCalendarCog",
-  "07 - Archives": "LiArchive",
-  "99 - Meta": "LiSquareLibrary"
+  "08 - Archives": "LiArchive",
+  "07 - Areas": "LiBox",
+  "99 - Meta": "LiBoxSelect"
 }
