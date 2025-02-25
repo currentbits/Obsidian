@@ -1,3 +1,9 @@
 {
-  "cssTheme": "Obsidianite"
+  "cssTheme": "Obsidianite",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "General Tweaks",
+    "Notebook Backgrounds",
+    "Daily Notes Themes"
+  ]
 }

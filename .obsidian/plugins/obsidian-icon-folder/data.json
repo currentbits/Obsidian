@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiSquareLibrary",
+      "LiPenTool",
+      "LiBookText",
+      "LiArchive",
+      "LiCalendarCog"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,12 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "01 - Projects": "LiPenTool",
+  "02 - Resources": "LiBookText",
+  "04 - Permanent": "SiReadthedocs",
+  "05 - Fleeting": "LiPen",
+  "06 - Daily": "LiCalendarCog",
+  "07 - Archives": "LiArchive",
+  "99 - Meta": "LiSquareLibrary"
 }
