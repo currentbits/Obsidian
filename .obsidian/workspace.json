@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ded62b64ce20e40c",
+        "id": "501bc062ce3c1e97",
         "type": "tabs",
         "children": [
           {
-            "id": "6b34a20b145cfd6a",
+            "id": "11fdbe27f8d35fcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(TEMPLATE) Unique"
+              "title": "New tab"
             }
           }
         ]
@@ -204,12 +200,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ba0aa3b8aa5e6b8",
+  "active": "11fdbe27f8d35fcf",
   "lastOpenFiles": [
-    "202502261245.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "06 - Daily/20250226.md",
+    "00 - Maps of Content/Placeholder.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "202502261245.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "Untitled.md",
     "99 - Meta/00 - Templates/Workflow Note Template.md",
     "99 - Meta/00 - Templates/Kubernetes Deployment.md",
@@ -223,7 +220,6 @@
     "09 - Blog",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "06 - Daily/Placeholder.md",
-    "00 - Maps of Content/Placeholder.md",
     "202502261140.md",
     "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
     "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
