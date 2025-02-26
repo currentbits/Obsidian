@@ -11,14 +11,10 @@
             "id": "16f5575328754c11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(TEMPLATE) Daily"
+              "title": "New tab"
             }
           }
         ]
@@ -127,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "file": "06 - Daily/2025-02-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (TEMPLATE) Daily"
+              "title": "Outline of 2025-02-25"
             }
           },
           {
@@ -194,13 +190,10 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:New drawing": false
@@ -208,16 +201,16 @@
   },
   "active": "9ba0aa3b8aa5e6b8",
   "lastOpenFiles": [
-    "07 - Areas",
-    "06 - Daily/2025-02-25.md",
-    "Excalidraw/Drawing 2025-02-25 23.02.57.excalidraw.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "Excalidraw",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "Untitled.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "06 - Daily/2025-02-25.md",
+    "07 - Areas",
+    "Excalidraw/Drawing 2025-02-25 23.02.57.excalidraw.md",
+    "Excalidraw",
     "99 - Meta",
     "2025-02-25.md",
     "99 - Meta/00 - Templates/Workflow Note Template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "Templates/Untitled.md",
     "06 - Daily/Untitled.md",
     "08 - Archives",
@@ -232,7 +225,6 @@
     "00 - Inbox/test.md",
     "99 - Meta/00 - Templates/Concept Note Template.md",
     "60 - HowTo Guides",
-    "50 - Projects",
     "10 - Concepts/Untitled.md",
     "20 - How-To Guides/Untitled.md",
     "99 - Meta/00 - Templates/GitOps Troubleshooting.md",
