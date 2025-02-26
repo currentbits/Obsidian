@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f378adbd049f5ca",
+        "id": "c1bcdfeb7360a1a5",
         "type": "tabs",
         "children": [
           {
-            "id": "16f5575328754c11",
+            "id": "0ea27f8e1fe60288",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-                "bFile": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: (TEMPLATE) Unique"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -203,7 +199,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "16f5575328754c11",
+  "active": "09b2b8940fd0b4ec",
   "lastOpenFiles": [
     "06 - Daily/20250226.md",
     "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
