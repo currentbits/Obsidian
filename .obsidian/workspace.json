@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "501bc062ce3c1e97",
+        "id": "66b02b8e4b578ff2",
         "type": "tabs",
         "children": [
           {
-            "id": "11fdbe27f8d35fcf",
+            "id": "55bb98accf8a2922",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -200,19 +200,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ba0aa3b8aa5e6b8",
+  "active": "55bb98accf8a2922",
   "lastOpenFiles": [
-    "Untitled.md",
-    "ED-202502261551.excalidraw.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "06 - Daily/20250226.md",
+    "99 - Meta/00 - Templates/Kubernetes Deployment.md",
+    "99 - Meta/00 - Templates/Concept Note Template.md",
+    "ED-202502261551.excalidraw.md",
+    "Untitled.md",
     "00 - Maps of Content/Placeholder.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "202502261245.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/Workflow Note Template.md",
-    "99 - Meta/00 - Templates/Kubernetes Deployment.md",
     "99 - Meta/00 - Templates/GitOps Troubleshooting.md",
-    "99 - Meta/00 - Templates/Concept Note Template.md",
     "99 - Meta/00 - Templates/Tool Note Template.md",
     "202502261239.md",
     "99 - Meta/00 - Templates/Blog Template.md",

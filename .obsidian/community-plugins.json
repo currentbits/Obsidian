@@ -12,5 +12,7 @@
   "ninja-cursor",
   "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "quickadd",
+  "cmdr"
 ]
