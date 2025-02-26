@@ -11,10 +11,14 @@
             "id": "16f5575328754c11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+                "bFile": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: (TEMPLATE) Unique"
             }
           }
         ]
@@ -199,11 +203,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9ba0aa3b8aa5e6b8",
+  "active": "16f5575328754c11",
   "lastOpenFiles": [
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "Untitled.md",
+    "06 - Daily/20250226.md",
+    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "06 - Daily/Placeholder.md",
+    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "99 - Meta/Preloaded Classes",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "07 - Archives/Placeholder.md",
+    "07 - Archives",
+    "05 - Fleeting/Placeholder.md",
+    "04 - Permanent/Placeholder.md",
+    "03 - Resources/Placeholder.md",
+    "03 - Resources",
+    "02 - Areas/Placeholder.md",
+    "02 - Areas",
+    "01 - Projects/Placeholder.md",
+    "00 - Maps of Content/Placeholder.md",
+    "00 - Maps of Content",
+    "Untitled.md",
     "06 - Daily/2025-02-25.md",
     "07 - Areas",
     "Excalidraw/Drawing 2025-02-25 23.02.57.excalidraw.md",
@@ -215,23 +236,11 @@
     "06 - Daily/Untitled.md",
     "08 - Archives",
     "06 - Daily",
-    "05 - Fleeting",
-    "04 - Permanent",
-    "02 - Resources",
-    "01 - Projects",
     "Untitled.canvas",
     "99 - Meta/00 - Templates/Tool Note Template.md",
     "Related Note 1.md",
     "00 - Inbox/test.md",
     "99 - Meta/00 - Templates/Concept Note Template.md",
-    "60 - HowTo Guides",
-    "10 - Concepts/Untitled.md",
-    "20 - How-To Guides/Untitled.md",
-    "99 - Meta/00 - Templates/GitOps Troubleshooting.md",
-    "99 - Meta/00 - Templates/Kubernetes Deployment.md",
-    "tes.md",
-    "Untitled 1.md",
-    "Templates/Gitops Troubleshooting Template.md",
-    "Welcome.md"
+    "10 - Concepts/Untitled.md"
   ]
 }
