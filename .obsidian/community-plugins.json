@@ -1,17 +1,15 @@
 [
-  "obsidian-spaced-repetition",
-  "obsidian-smart-typography",
-  "obsidian-importer",
-  "settings-search",
-  "obsidian-completr",
-  "obsidian-icon-folder",
-  "url-into-selection",
-  "obsidian-excalidraw-plugin",
-  "tag-wrangler",
-  "recent-files-obsidian",
-  "obsidian-text-format",
   "templater-obsidian",
+  "dataview",
+  "markdown-table-editor",
+  "omnisearch",
+  "obsidian-git",
   "calendar",
-  "homepage",
-  "obsidian-advanced-slides"
+  "obsidian-icon-folder",
+  "obsidian-file-color",
+  "file-explorer-note-count",
+  "code-styler",
+  "ninja-cursor",
+  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin"
 ]
