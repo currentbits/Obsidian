@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b019840a42dc4375",
+  "active": "9ba0aa3b8aa5e6b8",
   "lastOpenFiles": [
     "Untitled.canvas",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
