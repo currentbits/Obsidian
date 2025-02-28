@@ -69,18 +69,9 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "900a68c132cd6210",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -226,7 +217,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "09b2b8940fd0b4ec",
+  "active": "b019840a42dc4375",
   "lastOpenFiles": [
     "Untitled.canvas",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
