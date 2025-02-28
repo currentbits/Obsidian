@@ -69,6 +69,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "900a68c132cd6210",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -141,6 +151,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2389a0dd30c58b45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 3
@@ -188,6 +212,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -196,12 +222,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "55bb98accf8a2922",
+  "active": "9ba0aa3b8aa5e6b8",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "06 - Daily/20250226.md",
     "99 - Meta/00 - Templates/Kubernetes Deployment.md",
@@ -231,13 +258,11 @@
     "04 - Permanent/Placeholder.md",
     "03 - Resources/Placeholder.md",
     "03 - Resources",
-    "03 - Areas/Placeholder.md",
     "03 - Areas",
     "00 - Maps of Content",
     "07 - Areas",
     "Excalidraw",
     "99 - Meta",
-    "08 - Archives",
-    "Untitled.canvas"
+    "08 - Archives"
   ]
 }

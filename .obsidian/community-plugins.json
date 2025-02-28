@@ -5,7 +5,6 @@
   "omnisearch",
   "obsidian-git",
   "calendar",
-  "obsidian-icon-folder",
   "obsidian-file-color",
   "file-explorer-note-count",
   "code-styler",
@@ -14,5 +13,13 @@
   "obsidian-excalidraw-plugin",
   "obsidian-smart-typography",
   "quickadd",
-  "cmdr"
+  "cmdr",
+  "obsidian-completr",
+  "obsidian-importer",
+  "url-into-selection",
+  "recent-files-obsidian",
+  "settings-search",
+  "tag-wrangler",
+  "obsidian-text-format",
+  "obsidian-icon-folder"
 ]
