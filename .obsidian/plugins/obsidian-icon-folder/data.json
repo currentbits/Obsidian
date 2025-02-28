@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMap",
       "LiBox",
       "BoBxArchive",
       "LiCalendarDays",
-      "LiPen",
-      "BoBxChart"
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "06 - Daily": "LiCalendarDays",
   "99 - Meta": "LiBox",
   "03 - Areas": "BoBxChart",
-  "07 - Archives": "BoBxArchive"
+  "07 - Archives": "BoBxArchive",
+  "00 - Maps of Content": "LiMap"
 }
