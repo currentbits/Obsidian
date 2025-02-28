@@ -1,9 +1,9 @@
 {
   "accentColor": "#43cfea",
   "cssTheme": "AnuPpuccin",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "Calibri",
+  "textFontFamily": "Calibri",
+  "monospaceFontFamily": "Calibri",
   "enabledCssSnippets": [
     "retro-notebook-bg",
     "Daily Note",
