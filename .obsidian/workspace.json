@@ -11,14 +11,14 @@
             "id": "55bb98accf8a2922",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02 - Resources/placeholder.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-style-settings/data.json",
+                "bFile": ".obsidian/plugins/obsidian-style-settings/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "placeholder"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -207,35 +207,36 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
       "templater-obsidian:Templater": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-importer:Open Importer": false
     }
   },
   "active": "55bb98accf8a2922",
   "lastOpenFiles": [
+    "01 - Projects/Placeholder.md",
+    "99 - Meta/00 - Templates/Workflow Note Template.md",
+    "99 - Meta/00 - Templates/Tool Note Template.md",
+    "99 - Meta/00 - Templates/Kubernetes Deployment.md",
+    "99 - Meta/00 - Templates/GitOps Troubleshooting.md",
+    "99 - Meta/00 - Templates/Concept Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "02 - Resources/placeholder.md",
     "Untitled.canvas",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "06 - Daily/20250226.md",
-    "99 - Meta/00 - Templates/Kubernetes Deployment.md",
-    "99 - Meta/00 - Templates/Concept Note Template.md",
     "ED-202502261551.excalidraw.md",
     "Untitled.md",
     "00 - Maps of Content/Placeholder.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "202502261245.md",
-    "99 - Meta/00 - Templates/Workflow Note Template.md",
-    "99 - Meta/00 - Templates/GitOps Troubleshooting.md",
-    "99 - Meta/00 - Templates/Tool Note Template.md",
     "202502261239.md",
     "99 - Meta/00 - Templates/Blog Template.md",
     "test.md",
@@ -251,7 +252,6 @@
     "07 - Archives",
     "05 - Fleeting/Placeholder.md",
     "04 - Permanent/Placeholder.md",
-    "03 - Resources/Placeholder.md",
     "03 - Resources",
     "03 - Areas",
     "00 - Maps of Content",
